@@ -9,7 +9,7 @@ Projeto que simula uma pokedex da obra Pokemon.
 
 ## Visão Geral
 
-Nesse projeto a API (https://pokeapi.co/) foi utilizada para capturar os dados dos pokemons. É possível visualizar em formato de card os nomes, id's e tipos dos pokemons. O site está totalmente responsivo.
+Nesse projeto a API (https://pokeapi.co/) foi utilizada para capturar os dados dos pokemons. É possível visualizar em formato de card os nomes, ID's e tipos dos pokemons. O site está totalmente responsivo.
 
 ## Tecnologias Usadas
 
